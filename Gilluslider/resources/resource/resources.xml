@@ -1,0 +1,11 @@
+<resources>
+    <bitmaps>
+		<bitmap id="bluetooth_disconnected" filename="../images/bluetooth_disconnected.png" />
+		<bitmap id="bluetooth_connected" filename="../images/bluetooth_connected.png" />
+		<bitmap id="notifications" filename="../images/notifications.png" />
+		<bitmap id="alarm" filename="../images/alarm.png" />
+		<bitmap id="alarm_off" filename="../images/alarm_off.png" />
+		<bitmap id="backgroundHours" filename="../images/background_hours.png" />
+		<bitmap id="backgroundDate" filename="../images/background_date.png" />
+    </bitmaps>
+</resources>

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="41" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="42" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="43" pc="268435503" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="44" pc="268435546" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="45" pc="268435589" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="46" pc="268435632" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="47" pc="268435675" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="48" pc="268435718" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="49" pc="268435761" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="53" pc="268435780" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="54" pc="268435784" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="55" pc="268435803" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="56" pc="268435822" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="57" pc="268435844" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="58" pc="268435860" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="59" pc="268435876" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="60" pc="268435892" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="61" pc="268435920" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="62" pc="268435948" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="63" pc="268435976" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="70" pc="268436005" symbol="onShow"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="74" pc="268436010" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="75" pc="268436014" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="77" pc="268436041" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="78" pc="268436064" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="80" pc="268436087" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="81" pc="268436110" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="82" pc="268436135" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="83" pc="268436158" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="86" pc="268436181" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="88" pc="268436200" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="91" pc="268436228" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="93" pc="268436256" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="94" pc="268436304" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="96" pc="268436316" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="97" pc="268436332" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="98" pc="268436350" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="99" pc="268436370" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="101" pc="268436384" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="102" pc="268436400" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="103" pc="268436411" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="105" pc="268436430" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="108" pc="268436446" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="112" pc="268436464" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="113" pc="268436468" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="115" pc="268436491" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="116" pc="268436502" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="118" pc="268436536" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="120" pc="268436570" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="122" pc="268436604" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="124" pc="268436627" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="127" pc="268436647" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="128" pc="268436658" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="129" pc="268436694" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="130" pc="268436744" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="132" pc="268436806" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="133" pc="268436838" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="134" pc="268436845" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="135" pc="268436869" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="136" pc="268436887" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="137" pc="268436911" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="139" pc="268436935" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="140" pc="268436971" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="141" pc="268437001" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="142" pc="268437037" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="144" pc="268437073" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="145" pc="268437103" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="146" pc="268437127" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="147" pc="268437157" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="149" pc="268437187" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="150" pc="268437217" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="151" pc="268437241" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="152" pc="268437271" symbol="drawBatteryCircle"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="157" pc="268437305" symbol="drawIcons"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="158" pc="268437309" symbol="drawIcons"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="159" pc="268437336" symbol="drawIcons"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="161" pc="268437417" symbol="drawIcons"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="162" pc="268437465" symbol="drawIcons"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="163" pc="268437501" symbol="drawIcons"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="165" pc="268437616" symbol="drawIcons"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="167" pc="268437664" symbol="drawIcons"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="168" pc="268437694" symbol="drawIcons"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="169" pc="268437742" symbol="drawIcons"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="170" pc="268437778" symbol="drawIcons"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="172" pc="268437893" symbol="drawIcons"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="176" pc="268437942" symbol="drawMoveBarText"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="177" pc="268437946" symbol="drawMoveBarText"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="178" pc="268437967" symbol="drawMoveBarText"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="179" pc="268438003" symbol="drawMoveBarText"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="181" pc="268438053" symbol="drawMoveBarText"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="182" pc="268438060" symbol="drawMoveBarText"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="183" pc="268438071" symbol="drawMoveBarText"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="185" pc="268438121" symbol="drawMoveBarText"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="187" pc="268438171" symbol="drawMoveBarText"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="188" pc="268438207" symbol="drawMoveBarText"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="190" pc="268438231" symbol="drawMoveBarText"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="191" pc="268438267" symbol="drawMoveBarText"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="193" pc="268438280" symbol="drawMoveBarText"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="194" pc="268438316" symbol="drawMoveBarText"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="196" pc="268438326" symbol="drawMoveBarText"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="200" pc="268438403" symbol="drawLine"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="201" pc="268438407" symbol="drawLine"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="202" pc="268438443" symbol="drawLine"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="205" pc="268438488" symbol="drawStepSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="206" pc="268438492" symbol="drawStepSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="207" pc="268438528" symbol="drawStepSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="208" pc="268438562" symbol="drawStepSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="209" pc="268438593" symbol="drawStepSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="210" pc="268438621" symbol="drawStepSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="211" pc="268438629" symbol="drawStepSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="213" pc="268438679" symbol="drawStepSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="215" pc="268438718" symbol="drawStepSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="216" pc="268438805" symbol="drawStepSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="217" pc="268438849" symbol="drawStepSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="218" pc="268438886" symbol="drawStepSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="219" pc="268438923" symbol="drawStepSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="220" pc="268438960" symbol="drawStepSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="221" pc="268438997" symbol="drawStepSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="225" pc="268439030" symbol="drawDateSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="226" pc="268439034" symbol="drawDateSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="227" pc="268439078" symbol="drawDateSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="228" pc="268439165" symbol="drawDateSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="229" pc="268439258" symbol="drawDateSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="230" pc="268439294" symbol="drawDateSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="231" pc="268439322" symbol="drawDateSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="232" pc="268439346" symbol="drawDateSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="233" pc="268439356" symbol="drawDateSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="234" pc="268439366" symbol="drawDateSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="235" pc="268439407" symbol="drawDateSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="236" pc="268439417" symbol="drawDateSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="238" pc="268439430" symbol="drawDateSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="239" pc="268439471" symbol="drawDateSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="240" pc="268439481" symbol="drawDateSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="242" pc="268439494" symbol="drawDateSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="243" pc="268439530" symbol="drawDateSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="244" pc="268439626" symbol="drawDateSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="248" pc="268439731" symbol="drawHoursSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="249" pc="268439735" symbol="drawHoursSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="250" pc="268439769" symbol="drawHoursSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="251" pc="268439805" symbol="drawHoursSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="252" pc="268439842" symbol="drawHoursSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="253" pc="268439871" symbol="drawHoursSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="254" pc="268439907" symbol="drawHoursSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="255" pc="268439914" symbol="drawHoursSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="256" pc="268439925" symbol="drawHoursSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="258" pc="268439938" symbol="drawHoursSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="259" pc="268439949" symbol="drawHoursSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="261" pc="268439962" symbol="drawHoursSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="262" pc="268440043" symbol="drawHoursSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="264" pc="268440056" symbol="drawHoursSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="265" pc="268440102" symbol="drawHoursSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="266" pc="268440118" symbol="drawHoursSlider"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="273" pc="268440222" symbol="onHide"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="277" pc="268440227" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderView.mc" lineNum="281" pc="268440232" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderApp.mc" lineNum="5" pc="268440237" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderApp.mc" lineNum="6" pc="268440241" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderApp.mc" lineNum="10" pc="268440260" symbol="onStart"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderApp.mc" lineNum="14" pc="268440265" symbol="onStop"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderApp.mc" lineNum="18" pc="268440270" symbol="getInitialView"/>
+<entry filename="C:\\Users\\jorgi\\git\\Gilluslider\\source\\GillusliderApp.mc" lineNum="19" pc="268440274" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="25" pc="268440312" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="42" symbol="bluetooth_connected"/>
+<entry field="true" id="24" symbol="ARC_MAX_ITERS"/>
+<entry field="true" id="18" symbol="HOUR_SPACES"/>
+<entry field="true" id="15" symbol="yRefStep"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="26" symbol="blueToothConnectedIcon"/>
+<entry field="true" id="19" symbol="DATE_SPACES"/>
+<entry id="8389184" method="true" symbol="drawLine"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388645" symbol="Time"/>
+<entry field="true" id="11" symbol="yRefHour"/>
+<entry id="33" method="true" symbol="drawBatteryCircle"/>
+<entry field="true" id="16" symbol="xRefMovePoints"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="46" symbol="backgroundHours"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry field="true" id="47" symbol="backgroundDate"/>
+<entry id="8388640" symbol="Lang"/>
+<entry field="true" id="27" symbol="blueToothDisconnectedIcon"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389341" symbol="days"/>
+<entry field="true" id="13" symbol="yRefDate"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="32" symbol="notificationsIcon"/>
+<entry field="true" id="49" symbol="AppName"/>
+<entry field="true" id="43" symbol="notifications"/>
+<entry id="8389375" method="true" symbol="WatchFace"/>
+<entry id="8388641" symbol="Math"/>
+<entry field="true" id="48" symbol="LauncherIcon"/>
+<entry field="true" id="20" symbol="STEP_SPACES"/>
+<entry field="true" id="45" symbol="alarm_off"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="35" method="true" symbol="drawMoveBarText"/>
+<entry id="37" method="true" symbol="drawDateSlider"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="9" object="true" symbol="GillusliderApp"/>
+<entry field="true" id="14" symbol="xRefStep"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="38" method="true" symbol="drawHoursSlider"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="28" symbol="alarmIcon"/>
+<entry field="true" id="29" symbol="alarmOffIcon"/>
+<entry field="true" id="44" symbol="alarm"/>
+<entry id="34" method="true" symbol="drawIcons"/>
+<entry field="true" id="17" symbol="yRefMovePoints"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="41" symbol="bluetooth_disconnected"/>
+<entry field="true" id="21" symbol="STEPS_PER_SPACE"/>
+<entry field="true" id="31" symbol="backgroundDateIcon"/>
+<entry field="true" id="10" symbol="xRefHour"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry field="true" id="25" symbol="moveBarEnabled"/>
+<entry field="true" id="22" symbol="baseColor"/>
+<entry id="40" module="true" symbol="Layouts"/>
+<entry field="true" id="30" symbol="backgroundHoursIcon"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry field="true" id="12" symbol="xRefDate"/>
+<entry id="39" module="true" symbol="Menus"/>
+<entry id="8" object="true" symbol="GillusliderView"/>
+<entry id="36" method="true" symbol="drawStepSlider"/>
+<entry field="true" id="23" symbol="BAR_THICKNESS"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436460" name="dateOffset" stackId="8" startPc="268436041"/>
+<entry endPc="268436460" name="hour" stackId="2" startPc="268436041"/>
+<entry endPc="268436460" name="steps" stackId="5" startPc="268436041"/>
+<entry endPc="268436460" name="stepOffset" stackId="9" startPc="268436041"/>
+<entry endPc="268436460" name="min" stackId="3" startPc="268436041"/>
+<entry endPc="268436460" name="hourOffset" stackId="7" startPc="268436041"/>
+<entry endPc="268436460" name="moveBarLevel" stackId="6" startPc="268436041"/>
+<entry endPc="268436460" name="stepGoal" stackId="4" startPc="268436041"/>
+<entry endPc="268437301" name="c" stackId="3" startPc="268436658"/>
+<entry endPc="268437304" name="battPerc" stackId="2" startPc="268436468"/>
+<entry endPc="268438399" name="text" stackId="3" startPc="268437967"/>
+<entry endPc="268439007" name="tmp" stackId="8" startPc="268438593"/>
+<entry endPc="268439029" name="index" stackId="7" startPc="268438593"/>
+<entry endPc="268439029" name="i" stackId="6" startPc="268438593"/>
+<entry endPc="268439029" name="start" stackId="5" startPc="268438492"/>
+<entry endPc="268439708" name="tmp_day" stackId="8" startPc="268439346"/>
+<entry endPc="268439708" name="tmp_day_of_week" stackId="9" startPc="268439346"/>
+<entry endPc="268439730" name="i" stackId="7" startPc="268439346"/>
+<entry endPc="268439730" name="tomorrow" stackId="4" startPc="268439034"/>
+<entry endPc="268439730" name="today" stackId="3" startPc="268439034"/>
+<entry endPc="268439730" name="yesterday" stackId="5" startPc="268439034"/>
+<entry endPc="268439730" name="start" stackId="6" startPc="268439034"/>
+<entry endPc="268440053" name="tmp" stackId="7" startPc="268439871"/>
+<entry endPc="268440199" name="tmp" stackId="8" startPc="268439842"/>
+<entry endPc="268440221" name="index" stackId="6" startPc="268439842"/>
+<entry endPc="268440221" name="i" stackId="5" startPc="268439842"/>
+<entry endPc="268440221" name="start" stackId="4" startPc="268439735"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="GillusliderView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="GillusliderView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="GillusliderView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="GillusliderView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="drawBatteryCircle" parent="GillusliderView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawIcons" parent="GillusliderView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawMoveBarText" parent="GillusliderView">
+<param id="dc"/>
+<param id="moveBarLevel"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawLine" parent="GillusliderView">
+<param id="dc"/>
+<param id="moveBarLevel"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawStepSlider" parent="GillusliderView">
+<param id="dc"/>
+<param id="stepOffset"/>
+<param id="steps"/>
+<param id="stepGoal"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawDateSlider" parent="GillusliderView">
+<param id="dc"/>
+<param id="dateOffset"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawHoursSlider" parent="GillusliderView">
+<param id="dc"/>
+<param id="hourOffset"/>
+<param id="hour"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="GillusliderView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="GillusliderView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="GillusliderView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="GillusliderApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="GillusliderApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="GillusliderApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="GillusliderApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
