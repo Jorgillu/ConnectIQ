@@ -1,4 +1,5 @@
 using Toybox.Math as Math;
+using Toybox.UserProfile as UserProfile;
 
 class ChartModel {
     var ignore_sd = null;
@@ -12,6 +13,9 @@ class ChartModel {
     var range_mult_count = 0;
     var range_mult_count_not_null = 0;
     var next = 0;
+   
+   	var hr_zones;
+   	var max_HR = 189;
 
     var min;
     var max;
@@ -19,11 +23,13 @@ class ChartModel {
     var max_i;
     var mean;
     var sd;
-    
-    var max_HR = 189;
 
     function initialize() {
         set_range_minutes(2.5);
+        
+        if (UserProfile has :getHeartRateZones) {
+        	hr_zones = UserProfile.getHeartRateZones(UserProfile.getCurrentSport());
+        }        
     }
 
     function get_values() {
@@ -212,17 +218,17 @@ class ChartModel {
     function get_color(item){
     	if (item == null) {
     		return Graphics.COLOR_LT_GRAY;
-    	} else if (item < (max_HR * 60 / 100)) {
+    	} else if (item < get_zone1()) {
     		return Graphics.COLOR_LT_GRAY;
-    	} else if (item < (max_HR * 68 / 100)) {
+    	} else if (item < get_zone2()) {
     		return Graphics.COLOR_DK_GRAY;
-    	} else if (item < (max_HR * 76 / 100)) {
+    	} else if (item < get_zone3()) {
     		return Graphics.COLOR_BLUE;
-    	} else if (item < (max_HR * 84 / 100)) {
+    	} else if (item < get_zone4()) {
     		return Graphics.COLOR_GREEN;
-    	} else if (item < (max_HR * 92 / 100)) {
+    	} else if (item < get_zone5()) {
     		return Graphics.COLOR_ORANGE;
-    	} else if (item < (max_HR * 1)) {
+    	} else if (item < get_max_HR()) {
     		return Graphics.COLOR_RED;
     	} else {
     	    return Graphics.COLOR_PURPLE;
@@ -230,27 +236,45 @@ class ChartModel {
     }
     
     function get_zone1() {
+    	if (hr_zones != null) {
+    		return hr_zones[0];
+    	}
     	return max_HR * 60 /100;
     }  
       
     function get_zone2() {
+       	if (hr_zones != null) {
+    		return hr_zones[1];
+    	}
     	return max_HR * 68 / 100;
     }  
       
     function get_zone3() {
+    	if (hr_zones != null) { 
+    		return hr_zones[2];
+    	}
     	return max_HR * 76 / 100;
     }   
      
     function get_zone4() {
+    	if (hr_zones != null) {
+    		return hr_zones[3];
+    	}
     	return max_HR * 84 / 100;
     }  
      
     function get_zone5() {
+    	if (hr_zones != null) {
+    		return hr_zones[4];
+    	}
     	return max_HR * 92 / 100;
     } 
     
          
     function get_max_HR() {
+    	if (hr_zones != null) {
+    		return hr_zones[5];
+    	}
     	return max_HR;
     } 
 }

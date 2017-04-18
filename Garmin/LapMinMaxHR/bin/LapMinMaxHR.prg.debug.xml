@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="60" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="61" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="62" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="63" pc="268435574" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="67" pc="268435598" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="68" pc="268435602" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="69" pc="268435602" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="70" pc="268435602" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="72" pc="268435602" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="73" pc="268435621" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="75" pc="268435640" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="77" pc="268435671" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="78" pc="268435696" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="80" pc="268435721" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="81" pc="268435767" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="82" pc="268435793" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="83" pc="268435854" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="84" pc="268435880" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="85" pc="268435899" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="87" pc="268435925" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="89" pc="268435944" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="91" pc="268435975" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="92" pc="268436009" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="93" pc="268436058" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="94" pc="268436074" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="96" pc="268436099" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="97" pc="268436142" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="98" pc="268436158" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="99" pc="268436174" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="101" pc="268436190" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="102" pc="268436206" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="103" pc="268436264" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="104" pc="268436295" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="106" pc="268436335" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="107" pc="268436351" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="108" pc="268436367" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="109" pc="268436398" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="112" pc="268436415" symbol="selectFont"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="113" pc="268436419" symbol="selectFont"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="114" pc="268436426" symbol="selectFont"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="115" pc="268436426" symbol="selectFont"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="118" pc="268436426" symbol="selectFont"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="119" pc="268436462" symbol="selectFont"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="120" pc="268436488" symbol="selectFont"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="122" pc="268436519" symbol="selectFont"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="126" pc="268436538" symbol="selectFont"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="133" pc="268436542" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="135" pc="268436546" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="136" pc="268436557" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="137" pc="268436568" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="138" pc="268436604" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="140" pc="268436623" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="141" pc="268436659" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="143" pc="268436678" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="144" pc="268436704" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="151" pc="268436743" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="152" pc="268436747" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="153" pc="268436760" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="155" pc="268436774" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="156" pc="268436792" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="159" pc="268436809" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="160" pc="268436837" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="162" pc="268436849" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="163" pc="268436890" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="165" pc="268436931" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="167" pc="268436957" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="168" pc="268437010" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="169" pc="268437027" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="171" pc="268437086" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="174" pc="268437139" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="175" pc="268437192" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="176" pc="268437209" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="178" pc="268437268" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="181" pc="268437321" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="182" pc="268437374" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="183" pc="268437387" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="185" pc="268437446" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="188" pc="268437499" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="189" pc="268437552" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="190" pc="268437565" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="192" pc="268437624" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="199" pc="268437678" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="200" pc="268437682" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="203" pc="268437693" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="204" pc="268437697" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="207" pc="268437708" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="208" pc="268437712" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="211" pc="268437723" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="212" pc="268437727" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="215" pc="268437738" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="216" pc="268437742" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="217" pc="268437758" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="219" pc="268437771" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRView.mc" lineNum="220" pc="268437787" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRApp.mc" lineNum="5" pc="268437801" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRApp.mc" lineNum="6" pc="268437805" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRApp.mc" lineNum="10" pc="268437824" symbol="onStart"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRApp.mc" lineNum="14" pc="268437829" symbol="onStop"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRApp.mc" lineNum="18" pc="268437834" symbol="getInitialView"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinMaxHR\\source\\LapMinMaxHRApp.mc" lineNum="19" pc="268437838" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="50" symbol="label_llap_min_hr"/>
+<entry field="true" id="49" symbol="label_lap_min_hr"/>
+<entry id="8389748" method="true" symbol="onTimerStop"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="36" symbol="mTimerRunning"/>
+<entry id="18" symbol="mLastLapMaxHR"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389849" symbol="units"/>
+<entry id="39" symbol="mLabelFont"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="10" symbol="HSCREEN_BORDER"/>
+<entry id="43" method="true" symbol="selectFont"/>
+<entry field="true" id="52" symbol="lap_min_heartrate_label"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="32" symbol="mLapMaxHRY"/>
+<entry id="31" symbol="mLapMaxHRX"/>
+<entry id="30" symbol="mLapMinHRLabelY"/>
+<entry id="29" symbol="mLapMinHRLabelX"/>
+<entry field="true" id="53" symbol="AppName"/>
+<entry field="true" id="51" symbol="lap_min_heartrate_units"/>
+<entry id="34" symbol="mLapMaxHRLabelY"/>
+<entry id="33" symbol="mLapMaxHRLabelX"/>
+<entry field="true" id="9" symbol="VSCREEN_BORDER"/>
+<entry id="15" symbol="mCurrentLapMinHR"/>
+<entry field="true" id="46" symbol="LauncherIcon"/>
+<entry id="26" symbol="mLastLapMaxHRLabelY"/>
+<entry id="25" symbol="mLastLapMaxHRLabelX"/>
+<entry id="40" symbol="mLabelFontAscent"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="24" symbol="mLastLapMaxHRY"/>
+<entry id="23" symbol="mLastLapMaxHRX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="13" object="true" symbol="LapMinMaxHRView"/>
+<entry id="8389936" symbol="nativeNum"/>
+<entry id="28" symbol="mLapMinHRY"/>
+<entry id="27" symbol="mLapMinHRX"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389747" method="true" symbol="onTimerStart"/>
+<entry id="8388747" symbol="currentHeartRate"/>
+<entry id="35" symbol="mLapMinHRField"/>
+<entry id="37" symbol="mDataFont"/>
+<entry id="8389067" symbol="height"/>
+<entry id="22" symbol="mLastLapMinHRLabelY"/>
+<entry id="21" symbol="mLastLapMinHRLabelX"/>
+<entry id="8389750" method="true" symbol="onTimerResume"/>
+<entry id="14" object="true" symbol="LapMinMaxHRApp"/>
+<entry id="17" symbol="mLastLapMinHR"/>
+<entry id="20" symbol="mLastLapMinHRY"/>
+<entry id="19" symbol="mLastLapMinHRX"/>
+<entry id="45" module="true" symbol="Layouts"/>
+<entry id="42" symbol="yCenter"/>
+<entry id="41" symbol="xCenter"/>
+<entry field="true" id="8" symbol="BORDER_PAD"/>
+<entry field="true" id="12" symbol="fonts"/>
+<entry id="8389749" method="true" symbol="onTimerPause"/>
+<entry field="true" id="11" symbol="LAP_MIN_HR_FIELD_ID"/>
+<entry id="8389066" symbol="width"/>
+<entry field="true" id="47" symbol="label_llap_max_hr"/>
+<entry id="44" module="true" symbol="Menus"/>
+<entry id="38" symbol="mDataFontAscent"/>
+<entry field="true" id="48" symbol="label_lap_max_hr"/>
+<entry id="8389751" method="true" symbol="onTimerLap"/>
+<entry id="16" symbol="mCurrentLapMaxHR"/>
+<entry id="8389847" symbol="mesgType"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436414" name="layoutFontIdx" stackId="4" startPc="268435602"/>
+<entry endPc="268436414" name="layoutWidth" stackId="2" startPc="268435602"/>
+<entry endPc="268436414" name="layoutHeight" stackId="3" startPc="268435602"/>
+<entry endPc="268436541" name="fontIdx" stackId="5" startPc="268436419"/>
+<entry endPc="268436541" name="testString" stackId="4" startPc="268436419"/>
+<entry endPc="268436541" name="dimensions" stackId="6" startPc="268436419"/>
+<entry endPc="268437677" name="bgColor" stackId="2" startPc="268436747"/>
+<entry endPc="268437677" name="fgColor" stackId="3" startPc="268436747"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="LapMinMaxHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="LapMinMaxHRView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="selectFont" parent="LapMinMaxHRView">
+<param id="dc"/>
+<param id="width"/>
+<param id="height"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="compute" parent="LapMinMaxHRView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="LapMinMaxHRView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimerStart" parent="LapMinMaxHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimerStop" parent="LapMinMaxHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimerPause" parent="LapMinMaxHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimerResume" parent="LapMinMaxHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimerLap" parent="LapMinMaxHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="LapMinMaxHRApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="LapMinMaxHRApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="LapMinMaxHRApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="LapMinMaxHRApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

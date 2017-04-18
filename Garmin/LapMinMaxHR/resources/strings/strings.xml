@@ -1,0 +1,9 @@
+<strings>
+    <string id="AppName">LapMinMaxHR</string>
+    <string id="lap_min_heartrate_label">Lap Minimum HR</string>
+    <string id="lap_min_heartrate_units">bpm</string>
+    <string id="label_llap_min_hr">L Lap Min HR</string>
+    <string id="label_llap_max_hr">L Lap Max HR</string>
+    <string id="label_lap_min_hr">Lap Min HR</string>
+    <string id="label_lap_max_hr">Lap Max HR</string>
+</strings>

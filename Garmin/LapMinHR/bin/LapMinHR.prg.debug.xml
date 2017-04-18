@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="13" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="14" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="15" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="16" pc="268435491" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="17" pc="268435587" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="24" pc="268435611" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="26" pc="268435615" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="27" pc="268435626" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="28" pc="268435662" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="30" pc="268435681" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="31" pc="268435713" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="33" pc="268435742" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="34" pc="268435759" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="36" pc="268435768" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="40" pc="268435778" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="41" pc="268435782" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="44" pc="268435793" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="45" pc="268435797" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="48" pc="268435808" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="49" pc="268435812" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="52" pc="268435823" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="53" pc="268435827" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="56" pc="268435838" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRView.mc" lineNum="57" pc="268435842" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRApp.mc" lineNum="5" pc="268435856" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRApp.mc" lineNum="6" pc="268435860" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRApp.mc" lineNum="10" pc="268435879" symbol="onStart"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRApp.mc" lineNum="14" pc="268435884" symbol="onStop"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRApp.mc" lineNum="18" pc="268435889" symbol="getInitialView"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMinHR\\source\\LapMinHRApp.mc" lineNum="19" pc="268435893" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389748" method="true" symbol="onTimerStop"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="13" symbol="mTimerRunning"/>
+<entry id="9" object="true" symbol="LapMinHRView"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389849" symbol="units"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="11" symbol="mLapMinHR"/>
+<entry id="10" object="true" symbol="LapMinHRApp"/>
+<entry field="true" id="18" symbol="lap_min_heartrate_label"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="19" symbol="AppName"/>
+<entry field="true" id="17" symbol="lap_min_heartrate_units"/>
+<entry field="true" id="16" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8389936" symbol="nativeNum"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389747" method="true" symbol="onTimerStart"/>
+<entry id="12" symbol="mLapMinHRField"/>
+<entry id="8389750" method="true" symbol="onTimerResume"/>
+<entry id="15" module="true" symbol="Layouts"/>
+<entry id="8389749" method="true" symbol="onTimerPause"/>
+<entry field="true" id="8" symbol="LAP_MIN_HR_FIELD_ID"/>
+<entry id="14" module="true" symbol="Menus"/>
+<entry id="8389751" method="true" symbol="onTimerLap"/>
+<entry id="8389847" symbol="mesgType"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars/>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="LapMinHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="compute" parent="LapMinHRView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimerStart" parent="LapMinHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimerStop" parent="LapMinHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimerPause" parent="LapMinHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimerResume" parent="LapMinHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimerLap" parent="LapMinHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="LapMinHRApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="LapMinHRApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="LapMinHRApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="LapMinHRApp">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

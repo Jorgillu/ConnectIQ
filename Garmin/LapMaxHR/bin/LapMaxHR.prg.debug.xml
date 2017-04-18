@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRView.mc" lineNum="9" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRView.mc" lineNum="10" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRView.mc" lineNum="11" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRView.mc" lineNum="18" pc="268435492" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRView.mc" lineNum="20" pc="268435496" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRView.mc" lineNum="21" pc="268435507" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRView.mc" lineNum="22" pc="268435543" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRView.mc" lineNum="24" pc="268435562" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRView.mc" lineNum="26" pc="268435597" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRView.mc" lineNum="27" pc="268435614" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRView.mc" lineNum="29" pc="268435623" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRView.mc" lineNum="33" pc="268435633" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRView.mc" lineNum="34" pc="268435637" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRView.mc" lineNum="37" pc="268435648" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRView.mc" lineNum="38" pc="268435652" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRView.mc" lineNum="41" pc="268435663" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRView.mc" lineNum="42" pc="268435667" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRView.mc" lineNum="45" pc="268435678" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRView.mc" lineNum="46" pc="268435682" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRView.mc" lineNum="49" pc="268435693" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRView.mc" lineNum="50" pc="268435697" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRApp.mc" lineNum="5" pc="268435711" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRApp.mc" lineNum="6" pc="268435715" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRApp.mc" lineNum="10" pc="268435734" symbol="onStart"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRApp.mc" lineNum="14" pc="268435739" symbol="onStop"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRApp.mc" lineNum="18" pc="268435744" symbol="getInitialView"/>
+<entry filename="C:\\Users\\jorgi\\Garmin\\workspaces\\publish\\LapMaxHR\\source\\LapMaxHRApp.mc" lineNum="19" pc="268435748" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389748" method="true" symbol="onTimerStop"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="15" symbol="mTimerRunning"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="9" object="true" symbol="LapMaxHRApp"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="13" symbol="AppName"/>
+<entry field="true" id="12" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389747" method="true" symbol="onTimerStart"/>
+<entry id="8" object="true" symbol="LapMaxHRView"/>
+<entry id="8389750" method="true" symbol="onTimerResume"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="14" symbol="mLapMaxHR"/>
+<entry id="8389749" method="true" symbol="onTimerPause"/>
+<entry id="10" module="true" symbol="Menus"/>
+<entry id="8389751" method="true" symbol="onTimerLap"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars/>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="LapMaxHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="compute" parent="LapMaxHRView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimerStart" parent="LapMaxHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimerStop" parent="LapMaxHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimerPause" parent="LapMaxHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimerResume" parent="LapMaxHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimerLap" parent="LapMaxHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="LapMaxHRApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="LapMaxHRApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="LapMaxHRApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="LapMaxHRApp">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

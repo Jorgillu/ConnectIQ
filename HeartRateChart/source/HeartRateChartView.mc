@@ -45,17 +45,15 @@ class HeartRateChartView extends Ui.DataField {
         } else {
         	dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_TRANSPARENT);
         }
-        dc.fillRectangle(0,0,dc.getWidth(), 48);
+        dc.fillRectangle(0,0,dc.getWidth(), 50);
         dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
-        text(dc, 109, 20, Graphics.FONT_NUMBER_MEDIUM,
-             fmt_num(model.get_current()));
+        text(dc, dc.getWidth()/2, 24, Graphics.FONT_NUMBER_MEDIUM, fmt_num(model.get_current()));
+        //text(dc, dc.getWidth()/2, 24, Graphics.FONT_NUMBER_MEDIUM, Graphics.getFontHeight(Graphics.FONT_NUMBER_MEDIUM));
         dc.setColor(foregroundColor, Graphics.COLOR_TRANSPARENT);
-        text(dc, 109, 186, Graphics.FONT_SMALL, getActivityDuration());
-        text(dc, 109, 204, Graphics.FONT_XTINY, model.get_range_label());
+        text(dc, dc.getWidth()/2, dc.getHeight() - 36, Graphics.FONT_SMALL, getActivityDuration());
+        text(dc, dc.getWidth()/2, dc.getHeight() - 16, Graphics.FONT_XTINY, model.get_range_label());
 
-        chart.draw(dc, [23, 60, 195, 172],
-                   Graphics.COLOR_LT_GRAY,
-                   range_min_size);
+        chart.draw(dc, [20, 60, dc.getWidth() - 20, dc.getHeight() - 60], Graphics.COLOR_LT_GRAY,  range_min_size);
     }
 
     function fmt_num(num) {
