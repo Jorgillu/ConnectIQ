@@ -1,0 +1,12 @@
+<settings>
+    <setting propertyKey="@Properties.duration" title="@Strings.duration">
+        <settingConfig type="list" required="true">
+	        <listEntry value="10">@Strings.ten</listEntry>
+	        <listEntry value="20">@Strings.twenty</listEntry>
+	        <listEntry value="30">@Strings.thirty</listEntry>
+			<listEntry value="40">@Strings.forty</listEntry>
+			<listEntry value="50">@Strings.fifty</listEntry>
+			<listEntry value="60">@Strings.sixty</listEntry>
+        </settingConfig>
+    </setting>
+</settings>
