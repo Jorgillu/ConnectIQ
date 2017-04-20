@@ -1,3 +1,10 @@
 <strings>
     <string id="AppName">HeartRateChart</string>
+    <string id="duration">Maximum Time Shown</string>
+    <string id="ten">10</string>
+    <string id="twenty">20</string>
+    <string id="thirty">30</string>
+    <string id="forty">40</string>
+    <string id="fifty">50</string>
+    <string id="sixty">60</string>
 </strings>

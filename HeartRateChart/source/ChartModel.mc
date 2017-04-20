@@ -8,6 +8,8 @@ class ChartModel {
     var values_size = 100; // Must be even
     var values;
     var range_mult;
+    var ori_range_mult;
+    var compresion_ratio = 1;
     var range_mult_max;
     var range_expand = false;
     var range_mult_count = 0;
@@ -25,8 +27,7 @@ class ChartModel {
     var sd;
 
     function initialize() {
-        set_range_minutes(2.5);
-        
+        //set_range_minutes(2.5);
         if (UserProfile has :getHeartRateZones) {
         	hr_zones = UserProfile.getHeartRateZones(UserProfile.getCurrentSport());
         }        
@@ -41,12 +42,19 @@ class ChartModel {
     }
 
     function set_range_minutes(range) {
-        var new_mult = range * 60 / values_size;
+        var new_mult = Math.ceil(range * 60 / values_size);
         if (new_mult != range_mult) {
             range_mult = new_mult;
+            ori_range_mult = new_mult;
+            System.println("range_mult " + range_mult);
             values = new [values_size];
             update_stats();
         }
+    }
+    
+    function set_value_size(new_values_size) {
+        values_size = new_values_size;
+        System.println("values_size " + values_size);
     }
 
     function set_max_range_minutes(range) {
@@ -141,22 +149,46 @@ class ChartModel {
 
     function do_range_expand() {
         var sz = values.size();
-        for (var i = sz - 1; i >= sz / 2; i--) {
-            var old_i = i * 2 - sz;
+        //range_mult *= 2;
+        range_mult += ori_range_mult;
+        //System.println("range_mult " + range_mult);
+        compresion_ratio += 1;
+        //System.println("compresion_ratio " + compresion_ratio);
+        var limit = Math.ceil(1.0*sz/compresion_ratio).toNumber();
+        //System.println("limit " + limit);
+        
+        for (var i = sz - 1; i >= (sz - limit); i--) {
+        	//System.println("i " + i);
+            var old_i = (i * compresion_ratio) - (sz * (compresion_ratio - 1));
+            //System.println("old_i " + old_i);
             var total = 0;
             var n = 0;
-            for (var j = old_i; j < old_i + 2; j++) {
-                if (values[j] != null) {
-                    total += values[j];
-                    n++;
-                }
-            }
-            values[i] = (n > 0) ? total / n : null;
+            //tenemos compresionRatio valores, que hay que pasar a compresion ratio-1
+            for (var z = (compresion_ratio - 2) ; z >= 0 ; z--) {
+            	//System.println("z " + z);
+            	if ((old_i + z >= 0) && (values[old_i + z] != null)) {
+            		total += values[old_i + z];
+            		n++;
+            	}
+            	if ((old_i + z + 1 >= 0) && (values[old_i + z + 1] != null)) {
+            		total += values[old_i + z + 1];
+            		n++;
+            	} 
+	            //for (var j = old_i; j < old_i + 2; j++) {
+	            //    if (values[j] != null) {
+	            //        total += values[j];
+	            //        n++;
+	            //    }
+	            //}
+	            if (n > 0) {
+	            	values[i-((sz-i)*(compresion_ratio-2)-z)] = total / n;
+	            }
+	            //values[i-((sz-i)*(compresion_ratio-2)-z)] = (n > 0) ? total / n : null;
+	    	}
         }
-        for (var i = 0; i < sz / 2; i++) {
+        for (var i = 0; i < limit; i++) {
             values[i] = null;
         }
-        range_mult *= 2;
     }
 
     function update_stats() {

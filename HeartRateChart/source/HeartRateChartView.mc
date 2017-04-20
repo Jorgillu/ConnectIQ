@@ -1,25 +1,34 @@
 using Toybox.Graphics;
 using Toybox.WatchUi as Ui;
 using Toybox.Activity as Act;
+using Toybox.Application as App;
+using Toybox.System as System;
 
 var model;
 
 class HeartRateChartView extends Ui.DataField {
     var chart;
     var label = "HR";
+    var settings_range_max_size;
     var range_min_size = 30;
 
     function initialize()
     {
     	DataField.initialize();
+    	
+    	settings_range_max_size = App.getApp().getProperty("duration");
+    	
         model = new ChartModel();
-        model.set_range_minutes(7.5);
+        model.set_value_size(240 - 2*20);
+        model.set_range_minutes(10);
         model.set_range_expand(true);
-        model.set_max_range_minutes(30);
+        //model.set_max_range_minutes(30);
+        model.set_max_range_minutes(settings_range_max_size);
         chart = new Chart(model);
     }
 
     function onLayout(dc) {
+    	
     }
 
     //! Restore the state of the app and prepare the view to be shown
