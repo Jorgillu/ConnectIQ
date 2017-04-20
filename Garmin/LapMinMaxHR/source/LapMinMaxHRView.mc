@@ -6,6 +6,7 @@ const BORDER_PAD = 4;
 const VSCREEN_BORDER = 40;
 const HSCREEN_BORDER = 20;
 const LAP_MIN_HR_FIELD_ID = 0;
+//const CURRENT_MIN_HR_FIELD_ID = 1;
 
 var fonts = [Gfx.FONT_XTINY,Gfx.FONT_TINY,Gfx.FONT_SMALL,Gfx.FONT_MEDIUM,Gfx.FONT_LARGE,
              Gfx.FONT_NUMBER_MILD,Gfx.FONT_NUMBER_MEDIUM,Gfx.FONT_NUMBER_HOT,Gfx.FONT_NUMBER_THAI_HOT];
@@ -14,7 +15,7 @@ class LapMinMaxHRView extends Ui.DataField {
     
     //Heart Rate Variables
     hidden var mCurrentLapMinHR = 250;
-	hidden var mCurrentLapMaxHR = -1;
+	hidden var mCurrentLapMaxHR = 0;
 	hidden var mLastLapMinHR = null;
 	hidden var mLastLapMaxHR = null;
 
@@ -44,6 +45,7 @@ class LapMinMaxHRView extends Ui.DataField {
     	
 	//Fit Contributor Variables
 	hidden var mLapMinHRField = null;
+	//hidden var mCurrentMinHRField = null;
 	hidden var mTimerRunning = false;
 	
 	// Font Values
@@ -59,8 +61,11 @@ class LapMinMaxHRView extends Ui.DataField {
 
     function initialize() {
         DataField.initialize();
-        mLapMinHRField = createField("lap_min_hr", LAP_MIN_HR_FIELD_ID, Fit.DATA_TYPE_UINT8, { :nativeNum=>64, :mesgType=>Fit.MESG_TYPE_LAP, :units=>"bpm" });
-        mLapMinHRField.setData(0);
+        mLapMinHRField = createField("min_hr", LAP_MIN_HR_FIELD_ID, Fit.DATA_TYPE_UINT8, { :nativeNum=>64, :mesgType=>Fit.MESG_TYPE_LAP, :units=>"bpm" });
+        //mLapMinHRField = createField("min_hr", LAP_MIN_HR_FIELD_ID, Fit.DATA_TYPE_STRING, { :mesgType=>Fit.MESG_TYPE_LAP, :count => 10});
+        //mCurrentMinHRField = createField("min_hr", CURRENT_MIN_HR_FIELD_ID, Fit.DATA_TYPE_UINT16, { :mesgType=>Fit.MESG_TYPE_RECORD, :units=>"bpm" });
+        mLapMinHRField.setData(1);
+        //mCurrentMinHRField.setData(0);
     }
 
     // Set your layout here.
@@ -78,11 +83,11 @@ class LapMinMaxHRView extends Ui.DataField {
         yCenter = dc.getHeight() / 2;
         
         layoutWidth = (width - (4 * BORDER_PAD) - (2 * HSCREEN_BORDER)) / 2;
-        System.println("width... " + layoutWidth);
+        //System.println("width... " + layoutWidth);
         layoutHeight = (height - (6 * BORDER_PAD) - (2 * VSCREEN_BORDER) - (2 * mLabelFontAscent)) /2;
-        System.println("heigth... " + layoutHeight);
+        //System.println("heigth... " + layoutHeight);
         layoutFontIdx = selectFont(dc, layoutWidth, layoutHeight);
-        System.println("font... " + layoutFontIdx);
+        //System.println("font... " + layoutFontIdx);
         
         mDataFont = fonts[layoutFontIdx];
         //mDataFont = Gfx.FONT_LARGE;
@@ -122,7 +127,6 @@ class LapMinMaxHRView extends Ui.DataField {
                 break;
             }
         }
-
         return fontIdx;
     }
 
@@ -141,7 +145,8 @@ class LapMinMaxHRView extends Ui.DataField {
 	        		mCurrentLapMaxHR = info.currentHeartRate;
 	        	}
 	        	mLapMinHRField.setData(mCurrentLapMinHR);
-		        System.println("Current: " + info.currentHeartRate);
+	        	//mCurrentMinHRField.setData(mCurrentLapMinHR);
+		        //System.println("Current: " + info.currentHeartRate);
 		    }
         }
     }
@@ -172,7 +177,7 @@ class LapMinMaxHRView extends Ui.DataField {
        	}
 
         dc.drawText(mLapMaxHRLabelX, mLapMaxHRLabelY, mLabelFont, "LapMaxHR", Gfx.TEXT_JUSTIFY_CENTER);
-        if (mCurrentLapMaxHR != -1) {
+        if (mCurrentLapMaxHR != 0) {
        		dc.drawText(mLapMaxHRX, mLapMaxHRY, mDataFont, mCurrentLapMaxHR, Gfx.TEXT_JUSTIFY_CENTER);
        	} else {
        		dc.drawText(mLapMaxHRX, mLapMaxHRY, mDataFont, "---", Gfx.TEXT_JUSTIFY_CENTER);
@@ -217,6 +222,6 @@ class LapMinMaxHRView extends Ui.DataField {
         mCurrentLapMinHR = 250;
         
         mLastLapMaxHR = mCurrentLapMaxHR;
-        mCurrentLapMaxHR = -1;
+        mCurrentLapMaxHR = 0;
     }
 }
