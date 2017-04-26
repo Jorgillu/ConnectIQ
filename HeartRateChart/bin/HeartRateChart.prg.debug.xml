@@ -1,289 +1,297 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="15" pc="268435456" symbol="initialize"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="17" pc="268435460" symbol="initialize"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="19" pc="268435478" symbol="initialize"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="21" pc="268435515" symbol="initialize"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="22" pc="268435545" symbol="initialize"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="23" pc="268435568" symbol="initialize"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="24" pc="268435591" symbol="initialize"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="26" pc="268435611" symbol="initialize"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="27" pc="268435637" symbol="initialize"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="30" pc="268435676" symbol="onLayout"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="35" pc="268435681" symbol="onShow"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="38" pc="268435686" symbol="onHide"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="42" pc="268435691" symbol="onUpdate"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="43" pc="268435695" symbol="onUpdate"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="44" pc="268435714" symbol="onUpdate"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="45" pc="268435728" symbol="onUpdate"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="46" pc="268435746" symbol="onUpdate"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="48" pc="268435763" symbol="onUpdate"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="49" pc="268435779" symbol="onUpdate"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="52" pc="268435791" symbol="onUpdate"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="53" pc="268435813" symbol="onUpdate"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="55" pc="268435874" symbol="onUpdate"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="57" pc="268435910" symbol="onUpdate"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="58" pc="268435948" symbol="onUpdate"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="59" pc="268435984" symbol="onUpdate"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="61" pc="268436060" symbol="onUpdate"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="62" pc="268436086" symbol="onUpdate"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="63" pc="268436157" symbol="onUpdate"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="65" pc="268436234" symbol="onUpdate"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="68" pc="268436357" symbol="fmt_num"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="69" pc="268436361" symbol="fmt_num"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="70" pc="268436368" symbol="fmt_num"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="73" pc="268436377" symbol="fmt_num"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="77" pc="268436387" symbol="text"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="78" pc="268436391" symbol="text"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="82" pc="268436437" symbol="compute"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="83" pc="268436441" symbol="compute"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="84" pc="268436451" symbol="compute"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="85" pc="268436471" symbol="compute"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="88" pc="268436475" symbol="getActivityDuration"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="89" pc="268436479" symbol="getActivityDuration"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="92" pc="268436486" symbol="getActivityDuration"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="93" pc="268436512" symbol="getActivityDuration"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="95" pc="268436541" symbol="getActivityDuration"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="96" pc="268436571" symbol="getActivityDuration"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="97" pc="268436581" symbol="getActivityDuration"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="98" pc="268436592" symbol="getActivityDuration"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="99" pc="268436625" symbol="getActivityDuration"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="100" pc="268436635" symbol="getActivityDuration"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="101" pc="268436646" symbol="getActivityDuration"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="104" pc="268436679" symbol="getActivityDuration"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="107" pc="268436692" symbol="getActivityDuration"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartApp.mc" lineNum="5" pc="268436696" symbol="initialize"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartApp.mc" lineNum="6" pc="268436700" symbol="initialize"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartApp.mc" lineNum="10" pc="268436719" symbol="onStart"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartApp.mc" lineNum="14" pc="268436724" symbol="onStop"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartApp.mc" lineNum="18" pc="268436729" symbol="getInitialView"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartApp.mc" lineNum="19" pc="268436733" symbol="getInitialView"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="29" pc="268436771" symbol="initialize"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="31" pc="268436775" symbol="initialize"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="32" pc="268436790" symbol="initialize"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="36" pc="268436832" symbol="get_values"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="37" pc="268436836" symbol="get_values"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="40" pc="268436846" symbol="get_range_minutes"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="41" pc="268436850" symbol="get_range_minutes"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="44" pc="268436884" symbol="set_range_minutes"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="45" pc="268436888" symbol="set_range_minutes"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="46" pc="268436922" symbol="set_range_minutes"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="47" pc="268436936" symbol="set_range_minutes"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="48" pc="268436946" symbol="set_range_minutes"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="49" pc="268436956" symbol="set_range_minutes"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="50" pc="268436988" symbol="set_range_minutes"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="51" pc="268437005" symbol="set_range_minutes"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="55" pc="268437021" symbol="set_value_size"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="56" pc="268437025" symbol="set_value_size"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="57" pc="268437035" symbol="set_value_size"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="60" pc="268437068" symbol="set_max_range_minutes"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="61" pc="268437072" symbol="set_max_range_minutes"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="64" pc="268437098" symbol="set_range_expand"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="65" pc="268437102" symbol="set_range_expand"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="69" pc="268437113" symbol="set_ignore_sd"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="70" pc="268437117" symbol="set_ignore_sd"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="73" pc="268437128" symbol="get_current"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="74" pc="268437132" symbol="get_current"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="77" pc="268437142" symbol="get_min"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="78" pc="268437146" symbol="get_min"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="81" pc="268437156" symbol="get_max"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="82" pc="268437160" symbol="get_max"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="85" pc="268437170" symbol="get_min_i"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="86" pc="268437174" symbol="get_min_i"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="89" pc="268437184" symbol="get_max_i"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="90" pc="268437188" symbol="get_max_i"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="93" pc="268437198" symbol="get_min_max_interesting"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="94" pc="268437202" symbol="get_min_max_interesting"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="97" pc="268437241" symbol="get_mean"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="98" pc="268437245" symbol="get_mean"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="101" pc="268437255" symbol="get_sd"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="102" pc="268437259" symbol="get_sd"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="105" pc="268437269" symbol="get_range_label"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="106" pc="268437273" symbol="get_range_label"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="107" pc="268437286" symbol="get_range_label"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="108" pc="268437297" symbol="get_range_label"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="111" pc="268437326" symbol="get_range_label"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="116" pc="268437359" symbol="fmt_num_label"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="117" pc="268437363" symbol="fmt_num_label"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="118" pc="268437376" symbol="fmt_num_label"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="119" pc="268437401" symbol="fmt_num_label"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="122" pc="268437430" symbol="new_value"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="123" pc="268437434" symbol="new_value"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="124" pc="268437444" symbol="new_value"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="125" pc="268437457" symbol="new_value"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="126" pc="268437479" symbol="new_value"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="128" pc="268437501" symbol="new_value"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="129" pc="268437520" symbol="new_value"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="130" pc="268437540" symbol="new_value"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="133" pc="268437617" symbol="new_value"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="134" pc="268437647" symbol="new_value"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="136" pc="268437688" symbol="new_value"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="138" pc="268437758" symbol="new_value"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="139" pc="268437771" symbol="new_value"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="140" pc="268437784" symbol="new_value"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="142" pc="268437797" symbol="new_value"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="143" pc="268437802" symbol="new_value"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="146" pc="268437817" symbol="new_value"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="150" pc="268437833" symbol="do_range_expand"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="151" pc="268437837" symbol="do_range_expand"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="153" pc="268437856" symbol="do_range_expand"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="155" pc="268437878" symbol="do_range_expand"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="157" pc="268437897" symbol="do_range_expand"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="160" pc="268437940" symbol="do_range_expand"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="162" pc="268437961" symbol="do_range_expand"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="164" pc="268437992" symbol="do_range_expand"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="165" pc="268437999" symbol="do_range_expand"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="167" pc="268438006" symbol="do_range_expand"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="169" pc="268438033" symbol="do_range_expand"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="170" pc="268438069" symbol="do_range_expand"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="171" pc="268438088" symbol="do_range_expand"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="173" pc="268438101" symbol="do_range_expand"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="174" pc="268438149" symbol="do_range_expand"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="175" pc="268438174" symbol="do_range_expand"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="183" pc="268438187" symbol="do_range_expand"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="184" pc="268438198" symbol="do_range_expand"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="189" pc="268438267" symbol="do_range_expand"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="190" pc="268438282" symbol="do_range_expand"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="194" pc="268438308" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="195" pc="268438312" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="196" pc="268438325" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="197" pc="268438338" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="198" pc="268438351" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="200" pc="268438364" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="201" pc="268438371" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="202" pc="268438378" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="203" pc="268438385" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="205" pc="268438392" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="206" pc="268438422" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="207" pc="268438435" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="209" pc="268438442" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="210" pc="268438452" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="211" pc="268438456" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="212" pc="268438469" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="213" pc="268438485" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="216" pc="268438508" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="217" pc="268438519" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="218" pc="268438528" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="221" pc="268438540" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="222" pc="268438553" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="225" pc="268438581" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="226" pc="268438584" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="227" pc="268438613" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="230" pc="268438635" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="231" pc="268438665" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="232" pc="268438678" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="233" pc="268438685" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="235" pc="268438732" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="237" pc="268438738" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="238" pc="268438752" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="239" pc="268438762" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="242" pc="268438775" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="243" pc="268438789" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="244" pc="268438799" symbol="update_stats"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="250" pc="268438829" symbol="get_color"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="251" pc="268438833" symbol="get_color"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="252" pc="268438840" symbol="get_color"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="254" pc="268438875" symbol="get_color"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="256" pc="268438910" symbol="get_color"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="258" pc="268438945" symbol="get_color"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="260" pc="268438980" symbol="get_color"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="262" pc="268439015" symbol="get_color"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="264" pc="268439050" symbol="get_color"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="266" pc="268439068" symbol="get_color"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="270" pc="268439084" symbol="get_zone1"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="271" pc="268439088" symbol="get_zone1"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="272" pc="268439101" symbol="get_zone1"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="274" pc="268439119" symbol="get_zone1"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="277" pc="268439141" symbol="get_zone2"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="278" pc="268439145" symbol="get_zone2"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="279" pc="268439158" symbol="get_zone2"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="281" pc="268439176" symbol="get_zone2"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="284" pc="268439198" symbol="get_zone3"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="285" pc="268439202" symbol="get_zone3"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="286" pc="268439215" symbol="get_zone3"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="288" pc="268439233" symbol="get_zone3"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="291" pc="268439255" symbol="get_zone4"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="292" pc="268439259" symbol="get_zone4"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="293" pc="268439272" symbol="get_zone4"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="295" pc="268439290" symbol="get_zone4"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="298" pc="268439312" symbol="get_zone5"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="299" pc="268439316" symbol="get_zone5"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="300" pc="268439329" symbol="get_zone5"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="302" pc="268439347" symbol="get_zone5"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="306" pc="268439369" symbol="get_max_HR"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="307" pc="268439373" symbol="get_max_HR"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="308" pc="268439386" symbol="get_max_HR"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="310" pc="268439404" symbol="get_max_HR"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="6" pc="268439414" symbol="initialize"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="7" pc="268439418" symbol="initialize"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="10" pc="268439429" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="14" pc="268439433" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="15" pc="268439443" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="16" pc="268439453" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="17" pc="268439463" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="19" pc="268439473" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="21" pc="268439492" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="23" pc="268439499" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="24" pc="268439506" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="25" pc="268439513" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="26" pc="268439517" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="27" pc="268439517" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="29" pc="268439517" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="30" pc="268439536" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="32" pc="268439555" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="33" pc="268439562" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="34" pc="268439569" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="35" pc="268439580" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="38" pc="268439590" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="39" pc="268439593" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="40" pc="268439596" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="41" pc="268439599" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="42" pc="268439611" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="43" pc="268439644" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="44" pc="268439689" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="45" pc="268439707" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="46" pc="268439727" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="47" pc="268439730" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="48" pc="268439733" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="51" pc="268439757" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="52" pc="268439780" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="53" pc="268439800" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="54" pc="268439807" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="55" pc="268439815" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="56" pc="268439843" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="58" pc="268439875" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="67" pc="268439907" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="68" pc="268439911" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="69" pc="268439915" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="72" pc="268439939" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="73" pc="268439942" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="74" pc="268439945" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="77" pc="268439961" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="78" pc="268439989" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="79" pc="268440038" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="80" pc="268440082" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="82" pc="268440111" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="83" pc="268440160" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="84" pc="268440204" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="86" pc="268440233" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="87" pc="268440282" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="88" pc="268440326" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="90" pc="268440355" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="91" pc="268440404" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="92" pc="268440448" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="94" pc="268440477" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="95" pc="268440526" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="96" pc="268440570" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="98" pc="268440599" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="99" pc="268440648" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="100" pc="268440692" symbol="draw"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="104" pc="268440722" symbol="item_x"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="105" pc="268440726" symbol="item_x"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="108" pc="268440745" symbol="x_item"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="109" pc="268440749" symbol="x_item"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="112" pc="268440768" symbol="item_y"/>
-<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="113" pc="268440772" symbol="item_y"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="16" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="18" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="20" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="22" pc="268435515" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="23" pc="268435545" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="24" pc="268435568" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="25" pc="268435591" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="27" pc="268435611" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="28" pc="268435637" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="31" pc="268435676" symbol="onLayout"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="36" pc="268435681" symbol="onShow"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="39" pc="268435686" symbol="onHide"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="43" pc="268435691" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="44" pc="268435695" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="45" pc="268435714" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="46" pc="268435728" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="47" pc="268435746" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="49" pc="268435763" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="50" pc="268435779" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="53" pc="268435791" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="54" pc="268435813" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="56" pc="268435874" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="58" pc="268435910" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="59" pc="268435948" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="60" pc="268435984" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="62" pc="268436060" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="63" pc="268436086" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="64" pc="268436157" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="66" pc="268436234" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="69" pc="268436357" symbol="fmt_num"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="70" pc="268436361" symbol="fmt_num"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="71" pc="268436368" symbol="fmt_num"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="74" pc="268436377" symbol="fmt_num"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="78" pc="268436387" symbol="text"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="79" pc="268436391" symbol="text"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="83" pc="268436437" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="84" pc="268436441" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="85" pc="268436452" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="86" pc="268436463" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="87" pc="268436473" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="88" pc="268436493" symbol="compute"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="93" pc="268436503" symbol="getActivityDuration"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="94" pc="268436507" symbol="getActivityDuration"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="97" pc="268436514" symbol="getActivityDuration"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="98" pc="268436540" symbol="getActivityDuration"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="100" pc="268436569" symbol="getActivityDuration"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="101" pc="268436599" symbol="getActivityDuration"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="102" pc="268436609" symbol="getActivityDuration"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="103" pc="268436620" symbol="getActivityDuration"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="104" pc="268436653" symbol="getActivityDuration"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="105" pc="268436663" symbol="getActivityDuration"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="106" pc="268436674" symbol="getActivityDuration"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="109" pc="268436707" symbol="getActivityDuration"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="112" pc="268436720" symbol="getActivityDuration"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="115" pc="268436724" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="116" pc="268436728" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="119" pc="268436739" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="120" pc="268436743" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="123" pc="268436754" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="124" pc="268436758" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="127" pc="268436769" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartView.mc" lineNum="128" pc="268436773" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartApp.mc" lineNum="5" pc="268436784" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartApp.mc" lineNum="6" pc="268436788" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartApp.mc" lineNum="10" pc="268436807" symbol="onStart"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartApp.mc" lineNum="14" pc="268436812" symbol="onStop"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartApp.mc" lineNum="18" pc="268436817" symbol="getInitialView"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\HeartRateChartApp.mc" lineNum="19" pc="268436821" symbol="getInitialView"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="29" pc="268436859" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="31" pc="268436863" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="32" pc="268436878" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="36" pc="268436920" symbol="get_values"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="37" pc="268436924" symbol="get_values"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="40" pc="268436934" symbol="get_range_minutes"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="41" pc="268436938" symbol="get_range_minutes"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="44" pc="268436972" symbol="set_range_minutes"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="45" pc="268436976" symbol="set_range_minutes"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="46" pc="268437010" symbol="set_range_minutes"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="47" pc="268437024" symbol="set_range_minutes"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="48" pc="268437034" symbol="set_range_minutes"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="50" pc="268437044" symbol="set_range_minutes"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="51" pc="268437061" symbol="set_range_minutes"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="55" pc="268437077" symbol="set_value_size"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="56" pc="268437081" symbol="set_value_size"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="60" pc="268437092" symbol="set_max_range_minutes"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="61" pc="268437096" symbol="set_max_range_minutes"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="64" pc="268437122" symbol="set_range_expand"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="65" pc="268437126" symbol="set_range_expand"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="69" pc="268437137" symbol="set_ignore_sd"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="70" pc="268437141" symbol="set_ignore_sd"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="73" pc="268437152" symbol="get_current"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="74" pc="268437156" symbol="get_current"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="77" pc="268437166" symbol="get_min"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="78" pc="268437170" symbol="get_min"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="81" pc="268437180" symbol="get_max"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="82" pc="268437184" symbol="get_max"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="85" pc="268437194" symbol="get_min_i"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="86" pc="268437198" symbol="get_min_i"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="89" pc="268437208" symbol="get_max_i"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="90" pc="268437212" symbol="get_max_i"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="93" pc="268437222" symbol="get_min_max_interesting"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="94" pc="268437226" symbol="get_min_max_interesting"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="97" pc="268437265" symbol="get_mean"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="98" pc="268437269" symbol="get_mean"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="101" pc="268437279" symbol="get_sd"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="102" pc="268437283" symbol="get_sd"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="105" pc="268437293" symbol="get_range_label"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="106" pc="268437297" symbol="get_range_label"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="107" pc="268437310" symbol="get_range_label"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="108" pc="268437321" symbol="get_range_label"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="111" pc="268437350" symbol="get_range_label"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="116" pc="268437383" symbol="fmt_num_label"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="117" pc="268437387" symbol="fmt_num_label"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="118" pc="268437400" symbol="fmt_num_label"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="119" pc="268437425" symbol="fmt_num_label"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="122" pc="268437454" symbol="new_value"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="123" pc="268437458" symbol="new_value"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="124" pc="268437468" symbol="new_value"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="125" pc="268437481" symbol="new_value"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="126" pc="268437503" symbol="new_value"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="128" pc="268437525" symbol="new_value"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="129" pc="268437544" symbol="new_value"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="130" pc="268437564" symbol="new_value"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="133" pc="268437641" symbol="new_value"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="134" pc="268437671" symbol="new_value"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="136" pc="268437712" symbol="new_value"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="138" pc="268437782" symbol="new_value"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="139" pc="268437795" symbol="new_value"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="140" pc="268437808" symbol="new_value"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="142" pc="268437821" symbol="new_value"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="143" pc="268437826" symbol="new_value"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="146" pc="268437841" symbol="new_value"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="150" pc="268437857" symbol="do_range_expand"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="151" pc="268437861" symbol="do_range_expand"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="153" pc="268437880" symbol="do_range_expand"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="155" pc="268437902" symbol="do_range_expand"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="157" pc="268437921" symbol="do_range_expand"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="160" pc="268437964" symbol="do_range_expand"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="162" pc="268437985" symbol="do_range_expand"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="164" pc="268438016" symbol="do_range_expand"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="165" pc="268438023" symbol="do_range_expand"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="167" pc="268438030" symbol="do_range_expand"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="169" pc="268438057" symbol="do_range_expand"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="170" pc="268438093" symbol="do_range_expand"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="171" pc="268438112" symbol="do_range_expand"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="173" pc="268438125" symbol="do_range_expand"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="174" pc="268438173" symbol="do_range_expand"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="175" pc="268438198" symbol="do_range_expand"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="183" pc="268438211" symbol="do_range_expand"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="184" pc="268438222" symbol="do_range_expand"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="189" pc="268438291" symbol="do_range_expand"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="190" pc="268438306" symbol="do_range_expand"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="194" pc="268438332" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="195" pc="268438336" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="196" pc="268438349" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="197" pc="268438362" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="198" pc="268438375" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="200" pc="268438388" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="201" pc="268438395" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="202" pc="268438402" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="203" pc="268438409" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="205" pc="268438416" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="206" pc="268438446" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="207" pc="268438459" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="209" pc="268438466" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="210" pc="268438476" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="211" pc="268438480" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="212" pc="268438493" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="213" pc="268438509" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="216" pc="268438532" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="217" pc="268438543" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="218" pc="268438552" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="221" pc="268438564" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="222" pc="268438577" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="225" pc="268438605" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="226" pc="268438608" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="227" pc="268438637" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="230" pc="268438659" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="231" pc="268438689" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="232" pc="268438702" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="233" pc="268438709" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="235" pc="268438756" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="237" pc="268438762" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="238" pc="268438776" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="239" pc="268438786" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="242" pc="268438799" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="243" pc="268438813" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="244" pc="268438823" symbol="update_stats"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="250" pc="268438853" symbol="get_color"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="251" pc="268438857" symbol="get_color"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="252" pc="268438864" symbol="get_color"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="254" pc="268438899" symbol="get_color"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="256" pc="268438934" symbol="get_color"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="258" pc="268438969" symbol="get_color"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="260" pc="268439004" symbol="get_color"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="262" pc="268439039" symbol="get_color"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="264" pc="268439074" symbol="get_color"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="266" pc="268439092" symbol="get_color"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="270" pc="268439108" symbol="get_zone1"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="271" pc="268439112" symbol="get_zone1"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="272" pc="268439125" symbol="get_zone1"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="274" pc="268439143" symbol="get_zone1"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="277" pc="268439165" symbol="get_zone2"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="278" pc="268439169" symbol="get_zone2"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="279" pc="268439182" symbol="get_zone2"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="281" pc="268439200" symbol="get_zone2"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="284" pc="268439222" symbol="get_zone3"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="285" pc="268439226" symbol="get_zone3"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="286" pc="268439239" symbol="get_zone3"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="288" pc="268439257" symbol="get_zone3"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="291" pc="268439279" symbol="get_zone4"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="292" pc="268439283" symbol="get_zone4"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="293" pc="268439296" symbol="get_zone4"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="295" pc="268439314" symbol="get_zone4"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="298" pc="268439336" symbol="get_zone5"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="299" pc="268439340" symbol="get_zone5"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="300" pc="268439353" symbol="get_zone5"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="302" pc="268439371" symbol="get_zone5"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="306" pc="268439393" symbol="get_max_HR"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="307" pc="268439397" symbol="get_max_HR"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="308" pc="268439410" symbol="get_max_HR"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\ChartModel.mc" lineNum="310" pc="268439428" symbol="get_max_HR"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="6" pc="268439438" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="7" pc="268439442" symbol="initialize"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="10" pc="268439453" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="14" pc="268439457" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="15" pc="268439467" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="16" pc="268439477" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="17" pc="268439487" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="19" pc="268439497" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="21" pc="268439516" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="23" pc="268439523" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="24" pc="268439530" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="25" pc="268439537" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="26" pc="268439541" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="27" pc="268439541" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="29" pc="268439541" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="30" pc="268439560" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="32" pc="268439579" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="33" pc="268439586" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="34" pc="268439593" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="35" pc="268439604" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="38" pc="268439614" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="39" pc="268439617" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="40" pc="268439620" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="41" pc="268439623" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="42" pc="268439635" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="44" pc="268439668" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="45" pc="268439713" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="46" pc="268439731" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="47" pc="268439751" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="48" pc="268439754" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="49" pc="268439757" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="51" pc="268439781" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="52" pc="268439804" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="53" pc="268439824" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="54" pc="268439831" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="55" pc="268439839" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="56" pc="268439867" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="58" pc="268439899" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="67" pc="268439931" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="68" pc="268439935" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="69" pc="268439939" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="71" pc="268439963" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="72" pc="268439966" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="73" pc="268439969" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="76" pc="268439985" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="77" pc="268440013" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="78" pc="268440062" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="79" pc="268440106" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="81" pc="268440135" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="82" pc="268440184" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="83" pc="268440228" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="85" pc="268440257" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="86" pc="268440306" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="87" pc="268440350" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="89" pc="268440379" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="90" pc="268440428" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="91" pc="268440472" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="93" pc="268440501" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="94" pc="268440550" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="95" pc="268440594" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="97" pc="268440623" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="98" pc="268440672" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="99" pc="268440716" symbol="draw"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="103" pc="268440746" symbol="item_x"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="104" pc="268440750" symbol="item_x"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="107" pc="268440769" symbol="x_item"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="108" pc="268440773" symbol="x_item"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="111" pc="268440792" symbol="item_y"/>
+<entry filename="C:\\Users\\jorgi\\git\\HeartRateChart\\source\\Chart.mc" lineNum="112" pc="268440796" symbol="item_y"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388644" symbol="System"/>
@@ -297,26 +305,28 @@
 <entry id="60" method="true" symbol="new_value"/>
 <entry id="12" object="true" symbol="Chart"/>
 <entry field="true" id="23" symbol="twenty"/>
+<entry id="8389748" method="true" symbol="onTimerStop"/>
 <entry field="true" id="8388611" symbol="Toybox"/>
 <entry field="true" id="31" symbol="compresion_ratio"/>
 <entry field="true" id="39" symbol="min_i"/>
 <entry id="8388770" module="true" symbol="Strings"/>
-<entry field="true" id="8389138" symbol="label"/>
+<entry id="73" symbol="mTimerRunning"/>
+<entry id="8389138" symbol="label"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389757" symbol="getHeartRateZones"/>
 <entry id="8389068" method="true" symbol="draw"/>
 <entry id="8388639" symbol="Graphics"/>
-<entry id="74" method="true" symbol="getActivityDuration"/>
+<entry id="75" method="true" symbol="getActivityDuration"/>
 <entry field="true" id="8388794" symbol="values"/>
 <entry id="8388769" module="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry id="14" method="true" symbol="x_item"/>
 <entry id="50" method="true" symbol="get_current"/>
 <entry id="10" object="true" symbol="HeartRateChartApp"/>
-<entry field="true" id="71" symbol="settings_range_max_size"/>
+<entry id="71" symbol="settings_range_max_size"/>
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry field="true" id="22" symbol="AppName"/>
-<entry field="true" id="72" symbol="range_min_size"/>
+<entry id="72" symbol="range_min_size"/>
 <entry field="true" id="32" symbol="range_mult_max"/>
 <entry field="true" id="8388935" symbol="duration"/>
 <entry field="true" id="35" symbol="range_mult_count_not_null"/>
@@ -346,9 +356,12 @@
 <entry id="56" method="true" symbol="get_mean"/>
 <entry id="8389279" method="true" symbol="onStart"/>
 <entry field="true" id="26" symbol="ignore_sd"/>
+<entry id="8389747" method="true" symbol="onTimerStart"/>
+<entry id="8388747" symbol="currentHeartRate"/>
 <entry field="true" id="21" symbol="ten"/>
 <entry field="true" id="40" symbol="max_i"/>
-<entry id="73" method="true" symbol="fmt_num"/>
+<entry id="74" method="true" symbol="fmt_num"/>
+<entry id="8389750" method="true" symbol="onTimerResume"/>
 <entry id="9" object="true" symbol="HeartRateChartView"/>
 <entry id="59" method="true" symbol="fmt_num_label"/>
 <entry id="17" module="true" symbol="Layouts"/>
@@ -362,6 +375,7 @@
 <entry field="true" id="42" symbol="sd"/>
 <entry id="57" method="true" symbol="get_sd"/>
 <entry field="true" id="37" symbol="max_HR"/>
+<entry id="8389749" method="true" symbol="onTimerPause"/>
 <entry id="61" method="true" symbol="do_range_expand"/>
 <entry id="8389346" method="true" symbol="text"/>
 <entry field="true" id="38" symbol="max"/>
@@ -376,66 +390,66 @@
 <entry id="8388772" module="true" symbol="Fonts"/>
 <entry field="true" id="30" symbol="ori_range_mult"/>
 <entry field="true" id="34" symbol="range_mult_count"/>
-<entry field="true" id="70" symbol="chart"/>
+<entry id="70" symbol="chart"/>
 <entry id="11" object="true" symbol="ChartModel"/>
 <entry field="true" id="41" symbol="mean"/>
 </symbolTable>
 <localVars>
 <entry endPc="268436356" name="foregroundColor" stackId="3" startPc="268435695"/>
 <entry endPc="268436356" name="backgroundColor" stackId="2" startPc="268435695"/>
-<entry endPc="268436474" name="val" stackId="2" startPc="268436441"/>
-<entry endPc="268436689" name="duration" stackId="2" startPc="268436512"/>
-<entry endPc="268436695" name="durationString" stackId="1" startPc="268436479"/>
-<entry endPc="268437020" name="new_mult" stackId="2" startPc="268436888"/>
-<entry endPc="268437358" name="range" stackId="1" startPc="268437273"/>
-<entry endPc="268437429" name="before" stackId="2" startPc="268437363"/>
-<entry endPc="268437429" name="after" stackId="3" startPc="268437363"/>
-<entry endPc="268437688" name="i" stackId="3" startPc="268437647"/>
-<entry endPc="268437829" name="expand" stackId="2" startPc="268437540"/>
-<entry endPc="268438254" name="z" stackId="7" startPc="268438033"/>
-<entry endPc="268438254" name="old_i" stackId="4" startPc="268437961"/>
-<entry endPc="268438254" name="total" stackId="5" startPc="268437961"/>
-<entry endPc="268438254" name="n" stackId="6" startPc="268437961"/>
-<entry endPc="268438267" name="i" stackId="3" startPc="268437961"/>
-<entry endPc="268438307" name="i" stackId="8" startPc="268438282"/>
-<entry endPc="268438307" name="limit" stackId="2" startPc="268437837"/>
-<entry endPc="268438307" name="sz" stackId="1" startPc="268437837"/>
-<entry endPc="268438492" name="m2" stackId="7" startPc="268438442"/>
-<entry endPc="268438495" name="item" stackId="6" startPc="268438422"/>
-<entry endPc="268438508" name="i" stackId="5" startPc="268438422"/>
-<entry endPc="268438815" name="item" stackId="10" startPc="268438665"/>
-<entry endPc="268438828" name="i" stackId="9" startPc="268438665"/>
-<entry endPc="268438828" name="m" stackId="1" startPc="268438312"/>
-<entry endPc="268438828" name="s" stackId="2" startPc="268438312"/>
-<entry endPc="268438828" name="total" stackId="3" startPc="268438312"/>
-<entry endPc="268438828" name="ignore" stackId="8" startPc="268438312"/>
-<entry endPc="268438828" name="n" stackId="4" startPc="268438312"/>
-<entry endPc="268439936" name="y" stackId="24" startPc="268439757"/>
-<entry endPc="268439961" name="x" stackId="23" startPc="268439611"/>
-<entry endPc="268440108" name="y" stackId="25" startPc="268440038"/>
-<entry endPc="268440230" name="y" stackId="26" startPc="268440160"/>
-<entry endPc="268440352" name="y" stackId="27" startPc="268440282"/>
-<entry endPc="268440474" name="y" stackId="28" startPc="268440404"/>
-<entry endPc="268440596" name="y" stackId="29" startPc="268440526"/>
-<entry endPc="268440718" name="y" stackId="30" startPc="268440648"/>
-<entry endPc="268440721" name="x_next" stackId="14" startPc="268439433"/>
-<entry endPc="268440721" name="y2" stackId="8" startPc="268439433"/>
-<entry endPc="268440721" name="y1" stackId="6" startPc="268439433"/>
-<entry endPc="268440721" name="x_old" stackId="20" startPc="268439433"/>
-<entry endPc="268440721" name="range_min" stackId="18" startPc="268439433"/>
-<entry endPc="268440721" name="x" stackId="13" startPc="268439433"/>
-<entry endPc="268440721" name="range_max" stackId="19" startPc="268439433"/>
-<entry endPc="268440721" name="height" stackId="12" startPc="268439433"/>
-<entry endPc="268440721" name="width" stackId="11" startPc="268439433"/>
-<entry endPc="268440721" name="min" stackId="16" startPc="268439433"/>
-<entry endPc="268440721" name="color_old" stackId="22" startPc="268439433"/>
-<entry endPc="268440721" name="max" stackId="17" startPc="268439433"/>
-<entry endPc="268440721" name="x2" stackId="7" startPc="268439433"/>
-<entry endPc="268440721" name="x1" stackId="5" startPc="268439433"/>
-<entry endPc="268440721" name="range_border" stackId="10" startPc="268439433"/>
-<entry endPc="268440721" name="y_old" stackId="21" startPc="268439433"/>
-<entry endPc="268440721" name="item" stackId="15" startPc="268439433"/>
-<entry endPc="268440721" name="data" stackId="9" startPc="268439433"/>
+<entry endPc="268436496" name="val" stackId="2" startPc="268436463"/>
+<entry endPc="268436717" name="duration" stackId="2" startPc="268436540"/>
+<entry endPc="268436723" name="durationString" stackId="1" startPc="268436507"/>
+<entry endPc="268437076" name="new_mult" stackId="2" startPc="268436976"/>
+<entry endPc="268437382" name="range" stackId="1" startPc="268437297"/>
+<entry endPc="268437453" name="before" stackId="2" startPc="268437387"/>
+<entry endPc="268437453" name="after" stackId="3" startPc="268437387"/>
+<entry endPc="268437712" name="i" stackId="3" startPc="268437671"/>
+<entry endPc="268437853" name="expand" stackId="2" startPc="268437564"/>
+<entry endPc="268438278" name="z" stackId="7" startPc="268438057"/>
+<entry endPc="268438278" name="old_i" stackId="4" startPc="268437985"/>
+<entry endPc="268438278" name="total" stackId="5" startPc="268437985"/>
+<entry endPc="268438278" name="n" stackId="6" startPc="268437985"/>
+<entry endPc="268438291" name="i" stackId="3" startPc="268437985"/>
+<entry endPc="268438331" name="i" stackId="8" startPc="268438306"/>
+<entry endPc="268438331" name="limit" stackId="2" startPc="268437861"/>
+<entry endPc="268438331" name="sz" stackId="1" startPc="268437861"/>
+<entry endPc="268438516" name="m2" stackId="7" startPc="268438466"/>
+<entry endPc="268438519" name="item" stackId="6" startPc="268438446"/>
+<entry endPc="268438532" name="i" stackId="5" startPc="268438446"/>
+<entry endPc="268438839" name="item" stackId="10" startPc="268438689"/>
+<entry endPc="268438852" name="i" stackId="9" startPc="268438689"/>
+<entry endPc="268438852" name="m" stackId="1" startPc="268438336"/>
+<entry endPc="268438852" name="s" stackId="2" startPc="268438336"/>
+<entry endPc="268438852" name="total" stackId="3" startPc="268438336"/>
+<entry endPc="268438852" name="ignore" stackId="8" startPc="268438336"/>
+<entry endPc="268438852" name="n" stackId="4" startPc="268438336"/>
+<entry endPc="268439960" name="y" stackId="24" startPc="268439781"/>
+<entry endPc="268439985" name="x" stackId="23" startPc="268439635"/>
+<entry endPc="268440132" name="y" stackId="25" startPc="268440062"/>
+<entry endPc="268440254" name="y" stackId="26" startPc="268440184"/>
+<entry endPc="268440376" name="y" stackId="27" startPc="268440306"/>
+<entry endPc="268440498" name="y" stackId="28" startPc="268440428"/>
+<entry endPc="268440620" name="y" stackId="29" startPc="268440550"/>
+<entry endPc="268440742" name="y" stackId="30" startPc="268440672"/>
+<entry endPc="268440745" name="x_next" stackId="14" startPc="268439457"/>
+<entry endPc="268440745" name="y2" stackId="8" startPc="268439457"/>
+<entry endPc="268440745" name="y1" stackId="6" startPc="268439457"/>
+<entry endPc="268440745" name="x_old" stackId="20" startPc="268439457"/>
+<entry endPc="268440745" name="range_min" stackId="18" startPc="268439457"/>
+<entry endPc="268440745" name="x" stackId="13" startPc="268439457"/>
+<entry endPc="268440745" name="range_max" stackId="19" startPc="268439457"/>
+<entry endPc="268440745" name="height" stackId="12" startPc="268439457"/>
+<entry endPc="268440745" name="width" stackId="11" startPc="268439457"/>
+<entry endPc="268440745" name="min" stackId="16" startPc="268439457"/>
+<entry endPc="268440745" name="color_old" stackId="22" startPc="268439457"/>
+<entry endPc="268440745" name="max" stackId="17" startPc="268439457"/>
+<entry endPc="268440745" name="x2" stackId="7" startPc="268439457"/>
+<entry endPc="268440745" name="x1" stackId="5" startPc="268439457"/>
+<entry endPc="268440745" name="range_border" stackId="10" startPc="268439457"/>
+<entry endPc="268440745" name="y_old" stackId="21" startPc="268439457"/>
+<entry endPc="268440745" name="item" stackId="15" startPc="268439457"/>
+<entry endPc="268440745" name="data" stackId="9" startPc="268439457"/>
 </localVars>
 <annotations/>
 <functions>
@@ -473,6 +487,18 @@
 <documentation/>
 </functionEntry>
 <functionEntry name="getActivityDuration" parent="HeartRateChartView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimerStart" parent="HeartRateChartView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimerStop" parent="HeartRateChartView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimerPause" parent="HeartRateChartView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimerResume" parent="HeartRateChartView">
 <documentation/>
 </functionEntry>
 <functionEntry name="initialize" parent="HeartRateChartApp">

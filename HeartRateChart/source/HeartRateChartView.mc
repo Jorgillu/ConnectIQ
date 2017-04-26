@@ -7,10 +7,11 @@ using Toybox.System as System;
 var model;
 
 class HeartRateChartView extends Ui.DataField {
-    var chart;
-    var label = "HR";
-    var settings_range_max_size;
-    var range_min_size = 30;
+    hidden var chart;
+    hidden var label = "HR";
+    hidden var settings_range_max_size;
+    hidden var range_min_size = 30;
+    hidden var mTimerRunning = false;
 
     function initialize()
     {
@@ -80,9 +81,13 @@ class HeartRateChartView extends Ui.DataField {
     }
 
     function compute(activityInfo) {
-        var val = activityInfo.currentHeartRate;
-        model.new_value(val);
-        return val;
+        if(activityInfo has :currentHeartRate){
+	        if(mTimerRunning) {
+		        var val = activityInfo.currentHeartRate;
+		        model.new_value(val);
+		        return val;
+		    }
+		}
     }
     
     function getActivityDuration() {
@@ -90,7 +95,7 @@ class HeartRateChartView extends Ui.DataField {
     	
     	//Duración en segundos
     	if (Act.getActivityInfo().elapsedTime != null) {
-	    	var duration = Act.getActivityInfo().elapsedTime / 1000;
+	    	var duration = Act.getActivityInfo().timerTime / 1000;
 	    	
 	    	durationString = (duration % 60).format("%02d") + "\"";
 	    	duration = duration / 60;
@@ -105,5 +110,21 @@ class HeartRateChartView extends Ui.DataField {
 	    	}
 	    }
     	return durationString;
+    }
+    
+    function onTimerStart() {
+        mTimerRunning = true;
+    }
+
+    function onTimerStop() {
+        mTimerRunning = false;
+    }
+
+    function onTimerPause() {
+        mTimerRunning = false;
+    }
+
+    function onTimerResume() {
+        mTimerRunning = true;
     }
 }

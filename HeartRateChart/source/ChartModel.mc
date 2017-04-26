@@ -46,7 +46,7 @@ class ChartModel {
         if (new_mult != range_mult) {
             range_mult = new_mult;
             ori_range_mult = new_mult;
-            System.println("range_mult " + range_mult);
+            //System.println("range_mult " + range_mult);
             values = new [values_size];
             update_stats();
         }
@@ -54,7 +54,7 @@ class ChartModel {
     
     function set_value_size(new_values_size) {
         values_size = new_values_size;
-        System.println("values_size " + values_size);
+        //System.println("values_size " + values_size);
     }
 
     function set_max_range_minutes(range) {

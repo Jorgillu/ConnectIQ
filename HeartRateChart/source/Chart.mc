@@ -40,14 +40,14 @@ class Chart {
         var color_old = null;
         for (var x = x1; x <= x2; x++) {
             item = data[x_item(x, x1, width, data.size())];
+            
             dc.setColor(model.get_color(item), Graphics.COLOR_TRANSPARENT);
             if (item != null && item > range_max) {
                 dc.drawLine(x, y1, x, y2);
                 x_old = null;
                 y_old = null;
                 color_old = null;
-            }
-            else if (item != null && item >= range_min) {
+            } else if (item != null && item >= range_min) {
                 var y = item_y(item, y2, height, range_min, range_max);
                 dc.drawLine(x, y, x, y2);
                 if (x_old != null) {
@@ -67,8 +67,7 @@ class Chart {
                 x_old = x;
                 y_old = y;
                 color_old = model.get_color(item);
-            }
-            else {
+            } else {
                 x_old = null;
                 y_old = null;
                 color_old = null;
